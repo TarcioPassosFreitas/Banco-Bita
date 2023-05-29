@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yxAfV+QN5o6x0l6dxZRfHLrlfh9JSzbWsOuH/LrLPjok+VlOd3aHruzzUP6O4t3OV0wQ3t4IjJSGP8kIr0d4TA==",
+  "success": true,
+  "projectFilePath": "C:\\Trabalhos\\Banco-Bita\\Backend\\BancoBitaBackend\\BancoBitaBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tpass\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tpass\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tpass\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\tpass\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\tpass\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\tpass\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
